@@ -23,4 +23,12 @@
       <UniqueIdentifier>{4299309c-b992-4a4f-ad06-29cf538acfc5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0326_1.c">
+      <Filter>소스 파일\0326</Filter>
+    </ClCompile>
+    <ClCompile Include="0326_2.c">
+      <Filter>소스 파일\0326</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
