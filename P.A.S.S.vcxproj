@@ -130,6 +130,12 @@
     <ClCompile Include="0326_1.c" />
     <ClCompile Include="0326_2.c" />
     <ClCompile Include="0402_Star.c" />
+    <ClCompile Include="0409_9x9.c" />
+    <ClCompile Include="0409_Diamond.c" />
+    <ClCompile Include="0409_Pyramid.c" />
+    <ClCompile Include="0409_Pyramid_FUCK.c" />
+    <ClCompile Include="0409_UpDownGame.c" />
+    <ClCompile Include="0409_UpDownGame_Landom.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

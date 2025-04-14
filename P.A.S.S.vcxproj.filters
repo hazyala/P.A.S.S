@@ -33,5 +33,23 @@
     <ClCompile Include="0402_Star.c">
       <Filter>소스 파일\0402</Filter>
     </ClCompile>
+    <ClCompile Include="0409_9x9.c">
+      <Filter>소스 파일\0409</Filter>
+    </ClCompile>
+    <ClCompile Include="0409_Diamond.c">
+      <Filter>소스 파일\0409</Filter>
+    </ClCompile>
+    <ClCompile Include="0409_Pyramid.c">
+      <Filter>소스 파일\0409</Filter>
+    </ClCompile>
+    <ClCompile Include="0409_Pyramid_FUCK.c">
+      <Filter>소스 파일\0409</Filter>
+    </ClCompile>
+    <ClCompile Include="0409_UpDownGame.c">
+      <Filter>소스 파일\0409</Filter>
+    </ClCompile>
+    <ClCompile Include="0409_UpDownGame_Landom.c">
+      <Filter>소스 파일\0409</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
