@@ -30,5 +30,8 @@
     <ClCompile Include="0326_2.c">
       <Filter>소스 파일\0326</Filter>
     </ClCompile>
+    <ClCompile Include="0402_Star.c">
+      <Filter>소스 파일\0402</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
