@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\0409">
       <UniqueIdentifier>{4299309c-b992-4a4f-ad06-29cf538acfc5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0507">
+      <UniqueIdentifier>{ec658c10-5e9b-4d27-9283-5476e3f96575}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0326_1.c">
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="0409_UpDownGame_Landom.c">
       <Filter>소스 파일\0409</Filter>
+    </ClCompile>
+    <ClCompile Include="0507.c">
+      <Filter>소스 파일\0507</Filter>
+    </ClCompile>
+    <ClCompile Include="0507_jackpot.c">
+      <Filter>소스 파일\0507</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
