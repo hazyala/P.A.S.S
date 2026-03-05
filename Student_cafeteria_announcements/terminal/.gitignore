@@ -1,0 +1,21 @@
+# 가상 환경
+menu/
+env/
+venv/
+.env
+
+# PyInstaller 빌드 결과물 및 캐시
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# 맥 시스템 파일 (혹시 모를)
+.DS_Store
+
+# 깃허브 시크릿 등 민감한 정보 
+kakao_token.json
+.env
+
+# 작성하신 배포 패키지 등 추가로 무시할 파일이나 폴더가 있다면 이 아래에 추가해 주세요.
